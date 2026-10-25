@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #778A50;
+}
+.h1_layout{
+    
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.h1_title{
+    font-family: Noto Sans;
+    font-weight: bolder;
+    font-style:normal;
+    font-size: 150px;
+    color:#EDF2C5 ;
+
+}
